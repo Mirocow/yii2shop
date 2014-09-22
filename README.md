@@ -19,6 +19,7 @@ Product
   * product_x_comment
   * product_x_field
 * attribute
+ * attribute_x_field
 * stock
 * file (Image, Zip, Doc)
 * action (begin_date, end_date)
