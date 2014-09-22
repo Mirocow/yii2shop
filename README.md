@@ -2,7 +2,7 @@ yii2shop
 ========
 
 Tables
-++++++
+======
 
 * catalog (NestedSet)
   * catalog_product
