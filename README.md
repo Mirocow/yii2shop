@@ -25,7 +25,7 @@ Product
 * stock
 * file (Image, Zip, Doc)
 * action (begin_date, end_date)
-* order
+* order* 
 
 Field
 =====
@@ -33,6 +33,12 @@ Field
 * field
  * field_x_type
 * field_type
+
+Cart
+=====
+
+* cart
+ * cart_x_product
 
 Comment
 =====
