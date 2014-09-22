@@ -40,7 +40,7 @@ Comment
 * comment
  * comment_x_field
 
-User
+User - https://github.com/Mirocow/yii2-user
 =====
 
 * user
