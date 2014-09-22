@@ -18,6 +18,8 @@ Product
   * product_x_order
   * product_x_comment
   * product_x_field
+  * product_x_property
+* property (hit, week, day)
 * attribute
  * attribute_x_field
 * stock
