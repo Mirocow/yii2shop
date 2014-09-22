@@ -55,6 +55,7 @@ User - https://github.com/Mirocow/yii2-user
   * user_x_field
 * role
   * role_x_permission
+* session
 * permission
 
 Other
