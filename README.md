@@ -5,7 +5,7 @@ Tables
 =====
 
 * catalog (NestedSet)
-  * catalog_product
+  * catalog_x_product
 
 Product
 =====
