@@ -16,11 +16,17 @@ Product
   * product_file
   * product_action
   * product_order
+  * product_comment
 * attribute
 * stock
 * file (Image, Zip, Doc)
 * action (begin_date, end_date)
 * order
+
+Comment
+=====
+
+* comment
 
 User
 =====
@@ -35,5 +41,6 @@ User
 Other
 =====
 
+* event (module, controller, action, begin_date)
 * page
 * config
