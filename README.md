@@ -1,6 +1,15 @@
 yii2shop
 ======
 
+Core
+=====
+
+* Yii2
+* Require.Js
+ * JQuery
+  * UI
+ * Backbone ?
+
 Tables
 =====
 
